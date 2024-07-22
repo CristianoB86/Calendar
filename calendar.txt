@@ -1,0 +1,17 @@
+Hora: 00:00, Moeda: IDR, Evento: , Atual: Massa Monetária - Agregado M2 (Anual) (Jun), Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 04:00, Moeda: CHF, Evento: , Atual: Massa Monetária - Agregado M3 (Jun), Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 05:30, Moeda: HKD, Evento: , Atual: IPC (Mensal) (Jun), Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 05:30, Moeda: HKD, Evento: , Atual: IPC Hong Kong (Anual) (Jun), Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 07:00, Moeda: EUR, Evento: , Atual: Relatório Mensal do Banco Central da Alemanha, Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 07:00, Moeda: EUR, Evento: , Atual: Encontro do Eurogrupo, Data: 22/07/2024, ImpactoTit: Moderada
+Hora: 08:25, Moeda: BRL, Evento: , Atual: Boletim Focus, Data: 22/07/2024, ImpactoTit: Moderada
+Hora: 09:00, Moeda: MXN, Evento: , Atual: Atividade Econômica (Mensal) (Mai), Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 09:00, Moeda: MXN, Evento: , Atual: Atividade Econômica (Anual) (Mai), Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 09:00, Moeda: MXN, Evento: , Atual: Vendas no Varejo (Mensal) (Mai), Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 09:00, Moeda: MXN, Evento: , Atual: Vendas no Varejo (Anual) (Mai), Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 09:30, Moeda: USD, Evento: , Atual: Índice de Atividade Nacional Fed Chicago (Jun), Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 10:00, Moeda: EUR, Evento: , Atual: Leilão Francês BTF a 12 meses, Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 10:00, Moeda: EUR, Evento: , Atual: Leilão Francês BTF a 3 meses, Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 10:00, Moeda: EUR, Evento: , Atual: Leilão Francês BTF a 6 meses, Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 12:30, Moeda: USD, Evento: , Atual: Leilão Americano Bill a 3 meses, Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 12:30, Moeda: USD, Evento: , Atual: Leilão Americano Bill a 6 meses, Data: 22/07/2024, ImpactoTit: Baixa
