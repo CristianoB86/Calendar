@@ -1,17 +1,27 @@
-Hora: 00:00, Moeda: IDR, Evento: , Atual: Massa Monetária - Agregado M2 (Anual) (Jun), Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 04:00, Moeda: CHF, Evento: , Atual: Massa Monetária - Agregado M3 (Jun), Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 05:30, Moeda: HKD, Evento: , Atual: IPC (Mensal) (Jun), Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 05:30, Moeda: HKD, Evento: , Atual: IPC Hong Kong (Anual) (Jun), Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 07:00, Moeda: EUR, Evento: , Atual: Relatório Mensal do Banco Central da Alemanha, Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 07:00, Moeda: EUR, Evento: , Atual: Encontro do Eurogrupo, Data: 22/07/2024, ImpactoTit: Moderada
-Hora: 08:25, Moeda: BRL, Evento: , Atual: Boletim Focus, Data: 22/07/2024, ImpactoTit: Moderada
-Hora: 09:00, Moeda: MXN, Evento: , Atual: Atividade Econômica (Mensal) (Mai), Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 09:00, Moeda: MXN, Evento: , Atual: Atividade Econômica (Anual) (Mai), Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 09:00, Moeda: MXN, Evento: , Atual: Vendas no Varejo (Mensal) (Mai), Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 09:00, Moeda: MXN, Evento: , Atual: Vendas no Varejo (Anual) (Mai), Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 09:30, Moeda: USD, Evento: , Atual: Índice de Atividade Nacional Fed Chicago (Jun), Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 10:00, Moeda: EUR, Evento: , Atual: Leilão Francês BTF a 12 meses, Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 10:00, Moeda: EUR, Evento: , Atual: Leilão Francês BTF a 3 meses, Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 10:00, Moeda: EUR, Evento: , Atual: Leilão Francês BTF a 6 meses, Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 12:30, Moeda: USD, Evento: , Atual: Leilão Americano Bill a 3 meses, Data: 22/07/2024, ImpactoTit: Baixa
-Hora: 12:30, Moeda: USD, Evento: , Atual: Leilão Americano Bill a 6 meses, Data: 22/07/2024, ImpactoTit: Baixa
+Hora: 02:00, Moeda: SGD, Evento: , Atual: IPC-núcleo (Anual) (Jun), Data: 23/07/2024, ImpactoTit: Moderada
+Hora: 02:00, Moeda: SGD, Evento: , Atual: IPC (Mensal) (Jun), Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 02:00, Moeda: SGD, Evento: , Atual: IPC Singapura (Anual) (Jun), Data: 23/07/2024, ImpactoTit: Moderada
+Hora: 40 min, Moeda: INR, Evento: , Atual: Índia - Orçamento da União, Data: 23/07/2024, ImpactoTit: Moderada
+Hora: 04:00, Moeda: EUR, Evento: , Atual: Pronunciamento de Lane, do BCE, Data: 23/07/2024, ImpactoTit: Moderada
+Hora: 04:00, Moeda: ZAR, Evento: , Atual: Índice de Indicadores Antecedentes (Mai), Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 05:00, Moeda: IDR, Evento: , Atual: Investimento Estrangeiro Direto (Anual), Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 06:30, Moeda: EUR, Evento: , Atual: Leilão Alemão Schatz a 2 anos, Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 07:00, Moeda: CNY, Evento: , Atual: Investimento Estrangeiro Direto (Jun), Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 07:00, Moeda: EUR, Evento: , Atual: Encontro do Eurogrupo, Data: 23/07/2024, ImpactoTit: Moderada
+Hora: 08:30, Moeda: EUR, Evento: , Atual: Confiança do Consumidor - Espanha (Jun), Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 09:00, Moeda: BRL, Evento: , Atual: Reunião do CMN, Data: 23/07/2024, ImpactoTit: Moderada
+Hora: 09:30, Moeda: CAD, Evento: , Atual: Preços de Novas Casas (Mensal) (Jun), Data: 23/07/2024, ImpactoTit: Moderada
+Hora: 09:55, Moeda: USD, Evento: , Atual: Índice Redbook (Anual), Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 11:00, Moeda: USD, Evento: , Atual: Vendas de Casas Usadas (Mensal) (Jun), Data: 23/07/2024, ImpactoTit: Moderada
+Hora: 11:00, Moeda: USD, Evento: , Atual: Vendas de Casas Usadas (Jun), Data: 23/07/2024, ImpactoTit: Alta
+Hora: 11:00, Moeda: USD, Evento: , Atual: Índice de Manufatura Fed Richmond (Jul), Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 11:00, Moeda: USD, Evento: , Atual: Índice de Embarques do Setor Industrial Richmond (Jul), Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 11:00, Moeda: USD, Evento: , Atual: Índice do Setor de Serviços Richmond (Jul), Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 11:00, Moeda: EUR, Evento: , Atual: Confiança do Consumidor (Jul), Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 14:00, Moeda: USD, Evento: , Atual: Leilão Americano Note a 2 anos, Data: 23/07/2024, ImpactoTit: Moderada
+Hora: 14:00, Moeda: USD, Evento: , Atual: Massa Monetária (Agregado M2) (Mensal), Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 17:30, Moeda: USD, Evento: , Atual: Estoques de Petróleo Bruto Semanal API, Data: 23/07/2024, ImpactoTit: Moderada
+Hora: 20:00, Moeda: AUD, Evento: , Atual: PMI Industrial, Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 20:00, Moeda: AUD, Evento: , Atual: PMI do Setor de Serviços, Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 21:30, Moeda: JPY, Evento: , Atual: PMI Industrial (Jul), Data: 23/07/2024, ImpactoTit: Baixa
+Hora: 21:30, Moeda: JPY, Evento: , Atual: PMI do Setor de Serviços (Jul), Data: 23/07/2024, ImpactoTit: Moderada
