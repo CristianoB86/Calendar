@@ -1,66 +1,67 @@
-Hora: 01:00, Moeda: IDR, Evento: , Atual: Núcleo da Inflação (Anual) (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 01:00, Moeda: IDR, Evento: , Atual: Inflação (Mensal) (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 01:00, Moeda: IDR, Evento: , Atual: Inflação (Anual) (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 02:00, Moeda: INR, Evento: , Atual: PMI Industrial Nikkei S&P Global (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 03:00, Moeda: GBP, Evento: , Atual: Índice de Preços de Imóveis Nationwide (Mensal) (Jul), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 03:00, Moeda: GBP, Evento: , Atual: Índice Nationwide de Preços dos Imóveis (Anual) (Jul), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 03:30, Moeda: AUD, Evento: , Atual: Índice Geral de Preços das Commodities (Anual) (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 04:15, Moeda: EUR, Evento: , Atual: PMI Industrial - Espanha (Jul), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 04:45, Moeda: EUR, Evento: , Atual: PMI Industrial - Itália (Jul), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 04:50, Moeda: EUR, Evento: , Atual: PMI Industrial - França (Jul), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 04:55, Moeda: EUR, Evento: , Atual: PMI Industrial - Alemanha (Jul), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 05:00, Moeda: EUR, Evento: , Atual: Taxa de Desemprego na Itália (Jun), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 05:00, Moeda: EUR, Evento: , Atual: Relatório Mensal do BCE, Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 05:00, Moeda: EUR, Evento: , Atual: PMI Industrial (Jul), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 05:30, Moeda: GBP, Evento: , Atual: PMI Industrial (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 05:30, Moeda: HKD, Evento: , Atual: Vendas no Varejo (Anual) (Jun), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 06:00, Moeda: EUR, Evento: , Atual: Leilão Francês OAT a 10 anos, Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 06:00, Moeda: EUR, Evento: , Atual: Leilão Francês OAT a 15 anos, Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 06:00, Moeda: EUR, Evento: , Atual: Leilão Francês OAT a 30 anos, Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 06:00, Moeda: EUR, Evento: , Atual: Taxa de Desemprego na Zona Euro (Jun), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 06:00, Moeda: ZAR, Evento: , Atual: PMI Industrial, Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 06:30, Moeda: EUR, Evento: , Atual: Leilão Espanhol Obligación a 10 anos, Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 06:30, Moeda: EUR, Evento: , Atual: Leilão Espanhol Bónos a 3 anos, Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 07:00, Moeda: EUR, Evento: , Atual: Licenciamento de Veículos (Anual) (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 07:00, Moeda: EUR, Evento: , Atual: Licenciamento de Veículos (Mensal) (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 08:00, Moeda: GBP, Evento: , Atual: Voto do Comitê de Política Monetária - Corte (Ago), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 08:00, Moeda: GBP, Evento: , Atual: Voto do Comitê de Política Monetária - Aumento (Ago), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 08:00, Moeda: GBP, Evento: , Atual: Voto do Comitê de Política Monetária - Inalterado (Ago), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 08:00, Moeda: GBP, Evento: , Atual: Decisão da Taxa de Juros (Ago), Data: 01/08/2024, ImpactoTit: Alta
-Hora: 08:00, Moeda: GBP, Evento: , Atual: Atas da Reunião do MPC, Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 08:30, Moeda: GBP, Evento: , Atual: Pronunciamento de Bailey, gov. do BoE, Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 08:30, Moeda: USD, Evento: , Atual: Demissões Anunciadas Challenger (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 08:30, Moeda: USD, Evento: , Atual: Demissões Anunciadas Challenger (Anual), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 09:00, Moeda: ZAR, Evento: , Atual: Total de Vendas de Veículos (Anual) (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 09:00, Moeda: ZAR, Evento: , Atual: Total de Vendas de Veículos (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 09:30, Moeda: USD, Evento: , Atual: Pedidos Contínuos por Seguro-Desemprego, Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 09:30, Moeda: USD, Evento: , Atual: Pedidos Iniciais por Seguro-Desemprego, Data: 01/08/2024, ImpactoTit: Alta
-Hora: 09:30, Moeda: USD, Evento: , Atual: Média de Pedidos de Seguro-Desemprego (4 Semanas), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 09:30, Moeda: USD, Evento: , Atual: Produtividade do Setor Não Agrícola (Trimestral) (Q2), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 09:30, Moeda: USD, Evento: , Atual: Custo Unitário da Mão de Obra (Trimestral) (Q2), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 10:00, Moeda: BRL, Evento: , Atual: PMI Industrial S&P Global (Jul), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 10:15, Moeda: GBP, Evento: , Atual: Pronunciamento de Bailey, gov. do BoE, Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 10:30, Moeda: CAD, Evento: , Atual: PMI Industrial (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 10:30, Moeda: ZAR, Evento: , Atual: Total de Vendas de Veículos, Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 10:45, Moeda: USD, Evento: , Atual: PMI Industrial (Jul), Data: 01/08/2024, ImpactoTit: Alta
-Hora: 11:00, Moeda: USD, Evento: , Atual: Gastos de Construção (Mensal) (Jun), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 11:00, Moeda: USD, Evento: , Atual: Índice ISM de Emprego no Setor Manufatureiro (Jul), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 11:00, Moeda: USD, Evento: , Atual: Índice de Novos Pedidos ISM (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 11:00, Moeda: USD, Evento: , Atual: PMI Industrial ISM (Jul), Data: 01/08/2024, ImpactoTit: Alta
-Hora: 11:00, Moeda: USD, Evento: , Atual: Preços no Setor Manufatureiro ISM (Jul), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 11:30, Moeda: USD, Evento: , Atual: Estoque de Gás Natural, Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 12:00, Moeda: MXN, Evento: , Atual: PMI Industrial (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 12:30, Moeda: USD, Evento: , Atual: Leilão Americano Bill a 4 semanas, Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 12:30, Moeda: USD, Evento: , Atual: Leilão Americano Bill a 8 semanas, Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 13:00, Moeda: EUR, Evento: , Atual: Licenciamento de Veículos (Anual) (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 13:30, Moeda: USD, Evento: , Atual: GDPNow do Fed de Atlanta (Q3), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 16:00, Moeda: ARS, Evento: , Atual: Receita Tributária (Jun), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 17:30, Moeda: USD, Evento: , Atual: Fed's Balance Sheet, Data: 01/08/2024, ImpactoTit: Alta
-Hora: 17:30, Moeda: USD, Evento: , Atual: Saldos de reservas com bancos do Federal Reserve, Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 18:15, Moeda: GBP, Evento: , Atual: Discurso de Pill, Membro do CPM do BoE, Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 20:50, Moeda: JPY, Evento: , Atual: Base Monetária (Anual) (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 22:30, Moeda: AUD, Evento: , Atual: Empréstimos Hipotecários (Mensal) (Jun), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 22:30, Moeda: AUD, Evento: , Atual: Indicador de Inflação MI (Mensal) (Jul), Data: 01/08/2024, ImpactoTit: Baixa
-Hora: 22:30, Moeda: AUD, Evento: , Atual: IPP (Anual) (Q2), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 22:30, Moeda: AUD, Evento: , Atual: IPP (Trimestral) (Q2), Data: 01/08/2024, ImpactoTit: Moderada
-Hora: 11 min, Moeda: ARS, Evento: , Atual: Receita Tributária (Jul), Data: 01/08/2024, ImpactoTit: Baixa
+Hora: 00:35, Moeda: JPY, Evento: , Atual: Leilão JGB a 5 anos, Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 03:00, Moeda: EUR, Evento: , Atual: Vendas no Varejo - Alemanha (Mensal) (Mai), Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 03:00, Moeda: EUR, Evento: , Atual: Vendas no Varejo - Alemanha (Anual) (Mai), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 03:01, Moeda: EUR, Evento: , Atual: Vendas no Varejo - Alemanha (Mensal) (Jun), Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 03:01, Moeda: EUR, Evento: , Atual: Vendas no Varejo - Alemanha (Anual) (Jun), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 03:02, Moeda: EUR, Evento: , Atual: Vendas no Varejo - Alemanha (Mensal) (Jul), Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 03:02, Moeda: EUR, Evento: , Atual: Vendas no Varejo - Alemanha (Anual) (Jul), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 03:03, Moeda: EUR, Evento: , Atual: Vendas no Varejo - Alemanha (Mensal) (Ago), Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 03:03, Moeda: EUR, Evento: , Atual: Vendas no Varejo - Alemanha (Anual) (Ago), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 05:00, Moeda: EUR, Evento: , Atual: Produção Industrial - Itália (Mensal) (Ago), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 05:00, Moeda: EUR, Evento: , Atual: Produção Industrial - Itália (Anual) (Ago), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 05:30, Moeda: GBP, Evento: , Atual: Pesquisa de Condições de Crédito do BoE, Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 06:30, Moeda: EUR, Evento: , Atual: Leilão Italiano BOT a 12 meses, Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 06:30, Moeda: ZAR, Evento: , Atual: Produção de Ouro (Anual) (Ago), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 06:30, Moeda: ZAR, Evento: , Atual: Produção de Mineração (Ago), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 07:00, Moeda: GBP, Evento: , Atual: PCSI da Thomson Reuters/IPSOS - Reino Unido (Out), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 07:00, Moeda: EUR, Evento: , Atual: PCSI da Thomson Reuters/IPSOS - Itália (Out), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 07:00, Moeda: EUR, Evento: , Atual: PCSI da Thomson Reuters/IPSOS - Alemanha (Out), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 07:00, Moeda: EUR, Evento: , Atual: PCSI da Thomson Reuters/IPSOS - França (Out), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 07:00, Moeda: EUR, Evento: , Atual: PCSI da Thomson Reuters/IPSOS (Mensal) (Out), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 07:00, Moeda: EUR, Evento: , Atual: IPC Portugal (Anual) (Set), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 07:00, Moeda: EUR, Evento: , Atual: IPC - Portugal (Mensal) (Set), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 07:00, Moeda: EUR, Evento: , Atual: Balança Comercial - Portugal (Ago), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 07:00, Moeda: ZAR, Evento: , Atual: PCSI da Thomson Reuters/IPSOS (Mensal) (Out), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 08:00, Moeda: ZAR, Evento: , Atual: Produção Industrial (Anual) (Ago), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 08:00, Moeda: ZAR, Evento: , Atual: Produção Industrial (Mensal) (Ago), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 08:30, Moeda: EUR, Evento: , Atual: BCE Publica Atas da Reunião de Política Monetária, Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 09:00, Moeda: BRL, Evento: , Atual: Vendas no Varejo (Mensal) (Ago), Data: 10/10/2024, ImpactoTit: Alta
+Hora: 09:00, Moeda: BRL, Evento: , Atual: Vendas no Varejo (Anual) (Ago), Data: 10/10/2024, ImpactoTit: Alta
+Hora: 09:30, Moeda: USD, Evento: , Atual: Pedidos Contínuos por Seguro-Desemprego, Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 09:30, Moeda: USD, Evento: , Atual: IPC-núcleo (Mensal) (Set), Data: 10/10/2024, ImpactoTit: Alta
+Hora: 09:30, Moeda: USD, Evento: , Atual: IPC-núcleo (Anual) (Set), Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 09:30, Moeda: USD, Evento: , Atual: IPC-núcleo (Set), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 09:30, Moeda: USD, Evento: , Atual: IPC (Mensal) (Set), Data: 10/10/2024, ImpactoTit: Alta
+Hora: 09:30, Moeda: USD, Evento: , Atual: IPC EUA (Anual) (Set), Data: 10/10/2024, ImpactoTit: Alta
+Hora: 09:30, Moeda: USD, Evento: , Atual: IPC (sem ajuste sazonal) (Set), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 09:30, Moeda: USD, Evento: , Atual: IPC com Ajuste Sazonal (Set), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 09:30, Moeda: USD, Evento: , Atual: IPC sem Ajuste Sazonal (Mensal) (Set), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 09:30, Moeda: USD, Evento: , Atual: Pedidos Iniciais por Seguro-Desemprego, Data: 10/10/2024, ImpactoTit: Alta
+Hora: 09:30, Moeda: USD, Evento: , Atual: Média de Pedidos de Seguro-Desemprego (4 Semanas), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 09:30, Moeda: USD, Evento: , Atual: Rendimento Real (Mensal) (Set), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 10:15, Moeda: USD, Evento: , Atual: Discurso de Cook, governador do Fed, Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 19 min, Moeda: MXN, Evento: , Atual: Atas da Reunião de Política Monetária, Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 49 min, Moeda: USD, Evento: , Atual: Discurso de Barkin, Membro do FOMC, Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 49 min, Moeda: USD, Evento: , Atual: Estoque de Gás Natural, Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 12:00, Moeda: USD, Evento: , Atual: IPC - Cleveland (Mensal) (Set), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 12:00, Moeda: USD, Evento: , Atual: Discurso de Williams, membro do FOMC, Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 12:30, Moeda: USD, Evento: , Atual: Leilão Americano Bill a 4 semanas, Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 12:30, Moeda: USD, Evento: , Atual: Leilão Americano Bill a 8 semanas, Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 14:00, Moeda: USD, Evento: , Atual: Leilão Americano Bond a 30 anos, Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 14:00, Moeda: EUR, Evento: , Atual: Discurso de Nagel, Presidente do Bundesbank, Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 15:00, Moeda: USD, Evento: , Atual: Balanço Orçamentário Federal (Set), Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 16:00, Moeda: ARS, Evento: , Atual: IPC Argentina (Anual) (Set), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 16:00, Moeda: ARS, Evento: , Atual: IPC (Mensal) (Set), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 17:30, Moeda: USD, Evento: , Atual: Fed's Balance Sheet, Data: 10/10/2024, ImpactoTit: Alta
+Hora: 17:30, Moeda: USD, Evento: , Atual: Saldos de reservas com bancos do Federal Reserve, Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 18:30, Moeda: NZD, Evento: , Atual: PMI Industrial NZ (Set), Data: 10/10/2024, ImpactoTit: Moderada
+Hora: 18:45, Moeda: NZD, Evento: , Atual: Entrada de Imigrantes e Turistas (Ago), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 18:45, Moeda: NZD, Evento: , Atual: Índice de Preços de Alimentos (Mensal) (Set), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 18:45, Moeda: NZD, Evento: , Atual: Imigração Permanente/Longo Prazo (Ago), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 18:45, Moeda: NZD, Evento: , Atual: Chegada de Turistas (Mensal), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 20:50, Moeda: JPY, Evento: , Atual: Medida Ampla de Oferta Monetária (M2) (Anual), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 20:50, Moeda: JPY, Evento: , Atual: Massa Monetária - Agregado M3 (Set), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 23:00, Moeda: INR, Evento: , Atual: PCSI da Thomson Reuters/IPSOS (Mensal) (Out), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 23:00, Moeda: AUD, Evento: , Atual: PCSI da Thomson Reuters/IPSOS (Mensal) (Out), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 23:00, Moeda: JPY, Evento: , Atual: PCSI da Thomson Reuters/IPSOS - Japão (Out), Data: 10/10/2024, ImpactoTit: Baixa
+Hora: 23:00, Moeda: CNY, Evento: , Atual: PCSI da Thomson Reuters/IPSOS - China (Out), Data: 10/10/2024, ImpactoTit: Baixa
